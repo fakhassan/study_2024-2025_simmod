@@ -1,5 +1,4 @@
 ---
-## Front matter
 lang: ru-RU
 title: Лабораторная работа №3
 subtitle: Моделирование стохастических процессов
@@ -19,7 +18,6 @@ slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
-
 ---
 
 # Информация
