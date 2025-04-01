@@ -34,7 +34,7 @@ header-includes:
   * студент
   * Российский университет дружбы народов
   * [1032215869@pfur.ru](mailto:1032215869@pfur.ru)
-  * <https://dmbelicheva.github.io/ru/>
+  * <https://fakhassan.github.io/ru/>
 
 :::
 ::: {.column width="25%"}
